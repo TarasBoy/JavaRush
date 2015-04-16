@@ -1,2 +1,2 @@
 # JavaRush
-#Here will be all my tusks for JavaRush
+#Here will be all my tasks for JavaRush
